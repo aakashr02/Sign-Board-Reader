@@ -5,7 +5,7 @@ This is a python based NLP project to recognize English sign/info boards and tra
 ![image](https://github.com/aakashr02/Sign-Board-Reader/assets/87864552/5490548f-3fa2-4ca3-923c-d3bf35552b0c)
 
 ### Necesaary Libraries
-1. OpenCV: OpenCV (Open Source Computer Vision) is a popular opensource computer vision library used for processing images and videos. It 
+1. OpenCV: OpenCV (Open Source Computer Vision) is a popular open source computer vision library used for processing images and videos. It 
 provides a range of algorithms for tasks such as image processing, feature 
 detection, object recognition, and more. OpenCV is widely used in fields 
 such as robotics, augmented reality, and image processing.
@@ -34,3 +34,7 @@ library for Python. It provides a range of NLP capabilities such as
 tokenization, stemming, lemmatization, part-of-speech tagging, and more. 
 NLTK is widely used in research and academia and provides a large 
 collection of corpora, lexical resources, and datasets.
+
+### Working
+![image](https://github.com/aakashr02/Sign-Board-Reader/assets/87864552/02e20bb9-865a-4a1a-a093-218b7b2a5c69)
+
